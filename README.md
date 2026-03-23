@@ -1,4 +1,4 @@
-# 📦 Smart Inventory API
+# 📦Inventory-mgmt API
 
 A simple and efficient **Inventory Management REST API** built using **FastAPI** and **SQLite**.
 This project provides basic CRUD operations to manage inventory items.
